@@ -21,8 +21,8 @@
     "start": "serve src"
   },
   "repository": {
-      "type": "git",
-      "url": "git@github.com:bloominstituteoftechnology/unit1-sprint3-intro-html.git"
+    "type": "git",
+    "url": "git@github.com:bloominstituteoftechnology/unit1-sprint3-intro-html.git"
   },
   "keywords": [],
   "author": "",
